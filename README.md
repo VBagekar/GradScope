@@ -47,6 +47,7 @@ It contains:
 
 ## Future Improvements
 
+- Build a user-friendly web interface using Streamlit or Flask
 - Test different regression models (Ridge, Lasso, SVR)
 - Add more features like intended major, undergrad university, etc.
 
